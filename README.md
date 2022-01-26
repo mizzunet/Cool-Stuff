@@ -12,6 +12,23 @@
 * [uBlock Origin](https://github.com/gorhill/uBlock/)
 * [Video Speed Controller**](https://github.com/igrigorik/videospeed)
 * [stutter](https://github.com/jamestomasino/stutter#installation)
-* [Chromium Webstore updater**](https://github.com/NeverDecaf/chromium-web-store)
+* [Chromium Webstore Updater**](https://github.com/NeverDecaf/chromium-web-store)
 * [Medium Unlimited](https://github.com/manojVivek/medium-unlimited)
 * [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
+
+### Linux 
+* Distro: Arch Linux
+* Browser: Chromium
+* Media Player: mpv
+* Window Manager: Sway
+* Bar: Waybar
+* Terminal: Alacritty
+* Launcher: Sirula
+* Network Manager: iwd
+* Notifications: mako
+* Explorer: Ranger and Thunar
+* Shell: fish
+* Image Viewer: eog
+* AUR helper: yay
+
+#### Other programs
