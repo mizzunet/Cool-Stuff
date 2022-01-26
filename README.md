@@ -30,5 +30,34 @@
 * Shell: fish
 * Image Viewer: eog
 * AUR helper: yay
+* Tasks: Gnome GTG
+* initramfs generator: Booster
+* Bootloader: systemd-boot
+* Polkit-agent: gnome-polkit-agent
+* Audio: pipewire and wireplumber
+* Auto-mounting: udiskie
+* Screen temperature: wlsunset
+* Screenshot: grim
+* Screenrecording: wf-recroder
+* Low-battery info: batsignal
+* Clipboard manager: clipman with wofi
+* GTK Theme: Skeuos
+* Qt Theme: Adwaita `QT_QPA_PLATFORMTHEME=gnome`
+* Icon: kora
+* Font: Clear Sans
 
 #### Other programs
+
+* Ferdi
+* Waydroid
+* GCompris
+* Calibre
+* Anki
+* Inkscape
+* Signal
+* profiles-on-sync
+* Stretchly
+* autotiling
+* powertop
+* swayidle
+
