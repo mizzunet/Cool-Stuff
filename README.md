@@ -16,6 +16,12 @@
 * [Medium Unlimited](https://github.com/manojVivek/medium-unlimited)
 * [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
 
+### Frequent Websites
+* Cinny: Matrix client
+* Invidious
+* Reddit
+* Goodreads
+
 ### Linux 
 * Distro: Arch Linux
 * Browser: Chromium
@@ -45,6 +51,7 @@
 * Qt Theme: Adwaita `QT_QPA_PLATFORMTHEME=gnome`
 * Icon: kora
 * Font: Clear Sans
+* Power-saver: tuned
 
 #### Other programs
 
