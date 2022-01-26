@@ -17,10 +17,11 @@
 * [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
 
 ### Frequent Websites
-* Cinny: Matrix client
+* [Cinny: Matrix client](https://cinny.in)
 * Invidious
 * Reddit
-* Goodreads
+* [Goodreads](https://goodreads.com)
+* [Z-Library](https://z-lib.org/)
 
 ### Linux 
 * Distro: Arch Linux
@@ -67,4 +68,5 @@
 * autotiling
 * powertop
 * swayidle
-
+* exa
+*
