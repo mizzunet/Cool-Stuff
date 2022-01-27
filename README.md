@@ -52,7 +52,7 @@
 * Qt Theme: Adwaita `QT_QPA_PLATFORMTHEME=gnome`
 * Icon: kora
 * Font: Clear Sans
-* Power-saver: tuned
+* Power-saver: tuned and powertop
 
 #### Other programs
 
@@ -69,7 +69,6 @@
 ##### cli
 * profiles-on-sync
 * autotiling
-* powertop
 * swayidle
 * exa
 
