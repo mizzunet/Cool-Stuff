@@ -33,7 +33,7 @@
 * Launcher: Sirula
 * Network Manager: iwd
 * Notifications: mako
-* Explorer: Ranger and Thunar
+* Explorer: Ranger and nemo
 * Shell: fish
 * Image Viewer: eog
 * AUR helper: yay
@@ -63,10 +63,13 @@
 * Anki
 * Inkscape
 * Signal
-* profiles-on-sync
 * Stretchly
+* Qalculate!
+
+##### cli
+* profiles-on-sync
 * autotiling
 * powertop
 * swayidle
 * exa
-*
+
