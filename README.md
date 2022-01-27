@@ -7,7 +7,7 @@
 * [Bandwidth Hero](https://github.com/ayastreb/bandwidth-hero)
 * [Language Tool](https://languagetool.org/premium)
 * [SingleLogin](https://chrome.google.com/webstore/detail/simpleloginreceive-send-e/dphilobhebphkdjbpfohgikllaljmgbn)
-* [SurfindKeys](https://github.com/brookhong/Surfingkeys)
+* [Vimium](https://github.com/philc/vimium)
 * [Great Suspender](https://github.com/greatsuspender/thegreatsuspender)
 * [uBlock Origin](https://github.com/gorhill/uBlock/)
 * [Video Speed Controller](https://github.com/igrigorik/videospeed)
