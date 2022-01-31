@@ -33,7 +33,7 @@
 * Launcher: Sirula
 * Network Manager: iwd
 * Notifications: mako
-* Explorer: Ranger and nemo
+* Explorer: xplr and nemo
 * Shell: fish
 * Image Viewer: eog
 * AUR helper: yay
