@@ -15,6 +15,7 @@
 * [Chromium Webstore Updater](https://github.com/NeverDecaf/chromium-web-store)
 * [Medium Unlimited](https://github.com/manojVivek/medium-unlimited)
 * [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
+* [ZeroTab](https://github.com/wcoder/ZeroTab)
 
 ### Frequent Websites
 * [Cinny: Matrix client](https://cinny.in)
