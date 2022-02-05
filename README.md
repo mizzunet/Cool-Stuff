@@ -53,7 +53,7 @@
 * Qt Theme: Adwaita `QT_QPA_PLATFORMTHEME=gnome`
 * Icon: kora
 * Font: Clear Sans
-* Power-saver: tuned and powertop
+* Power-saver: autocpu-freq and powertop
 
 #### Other programs
 
