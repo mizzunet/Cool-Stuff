@@ -1,21 +1,20 @@
 # These are some cool projects I use
 
-### Chromium extensions
+### Browser extensions
 * [Dark Reader](https://github.com/darkreader/darkreader)
-* [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en)
+* [Bitwarden](https://bitwarden.com)
 * [Buster:Captcha Solver](https://github.com/dessant/buster)
 * [Bandwidth Hero](https://github.com/ayastreb/bandwidth-hero)
 * [Language Tool](https://languagetool.org/premium)
-* [SingleLogin](https://chrome.google.com/webstore/detail/simpleloginreceive-send-e/dphilobhebphkdjbpfohgikllaljmgbn)
+* [SingleLogin](https://singlelogin.io)
 * [Vimium](https://github.com/philc/vimium)
 * [Great Suspender](https://github.com/greatsuspender/thegreatsuspender)
 * [uBlock Origin](https://github.com/gorhill/uBlock/)
 * [Video Speed Controller](https://github.com/igrigorik/videospeed)
 * [stutter](https://github.com/jamestomasino/stutter#installation)
-* [Chromium Webstore Updater](https://github.com/NeverDecaf/chromium-web-store)
 * [Medium Unlimited](https://github.com/manojVivek/medium-unlimited)
 * [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
-* [ZeroTab](https://github.com/wcoder/ZeroTab)
+* [Auto Tab Discard](https://github.com/wcoder/ZeroTab)
 
 ### Frequent Websites
 * [Cinny: Matrix client](https://cinny.in)
@@ -26,7 +25,7 @@
 
 ### Linux 
 * Distro: Arch Linux
-* Browser: Chromium
+* Browser: LibreWolf
 * Media Player: mpv
 * Window Manager: Sway
 * Bar: Waybar
